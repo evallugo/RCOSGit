@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "name": "Beyond The Zodiac",
+      "description": "Unique Zoodiac Experience",
+      "path": "../../team%20project/homepage/home.html",
+      "image": "fa-solid fa-meteor"
+    },
+    {
+      "name": "Your Afterschool Inventory",
+      "description": "Custom High Level Inventory System",
+      "path": "../../ya.html",
+      "image": "fa-solid fa-school"
+    }
+  ]
+} 

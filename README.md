@@ -1,6 +1,12 @@
 # RCOSGit
 
 * Eva Lugo
-* <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3067994e-9b5e-481f-836d-2d984e35c478" />
 * Class of 2028
 * Needle Frontend 
+
+
+This is my website from Introduction to Information Technology and Web Sciences. It fufilled all of the requirements of this lab.
+
+It includes various CSS aspect for both the styling of the website itself and the subpages leading to group projects. 
+
+This is the link to the original website: https://evallugo.github.io/
